@@ -2,3 +2,8 @@ fastapi
 sqlalchemy
 uvicorn[standart]
 psycopg2-binary
+Pillow
+botright
+tensorflow
+pixellib
+matplotlib
